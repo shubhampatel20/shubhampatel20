@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampatel20&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampatel20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel20" alt="shubhampatel20" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native , nodeJs**
 
